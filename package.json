@@ -1,8 +1,8 @@
 {
-  "name": "cinema-plus-client",
+  "name": "olyad-cinema-client",
   "version": "0.1.0",
   "private": true,
-  "author": "George Simos <georgesimos.com>",
+  "author": "Daggim Hailu",
   "license": "MIT",
   "dependencies": {
     "@date-io/moment": "1.3.11",
